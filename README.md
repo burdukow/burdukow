@@ -1,16 +1,35 @@
-### Hi there 👋
+<div align="center">
+  <h2>Valeriy Burdukov</h2>
+  <h3>Engineer of computer science</h3>
+</div>
 
-<!--
-**burdukow/burdukow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div class='parent'>
 
-Here are some ideas to get you started:
+  <div class='child'>
+   <h3>About my GitHub:</h3>
+    
+    This is my github. There are many like it, but this one is mine.
+    
+  </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h5>I love to: </h5>
+
+* programming 🧑‍💻 
+* videogames 🎮 
+* music 🎵
+
+<h5>My programming languages:</h5>
+
+* Python
+* C# 
+* C++
+* Lua
+* Kotlin
+
+<p align="center">
+  <a href="https://github.com/burdukow" >
+    <img src="https://komarev.com/ghpvc/?username=burdukow&style=for-the-badge" alt="profile-views">
+  </a>
+</p>

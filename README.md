@@ -6,12 +6,10 @@
 ### About my GitHub:
     This is my github. There are many like it, but this one is mine.
 
-
-
 ##### I love to:
 * programming 🧑‍💻 
-* videogames 🎮 
-* music 🎵
+* play videogames 🎮 
+* listen/make music 🎵
 
 ##### My programming languages:
 * Python
